@@ -119,6 +119,4 @@ Built for the [MiniMax H3](https://github.com/MiniMax-AI) omni-modal video model
 
 MIT
 
-## Author
 
-**Benjamin Law** — [Muse-AI](https://muse-ai.io)
